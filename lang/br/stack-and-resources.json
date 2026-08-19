@@ -1,5 +1,5 @@
 {
-  "title": "Stack & Recursos - Hybroht Enterprise",
+  "title": "Stack & Recursos - HYBROHT",
 
   "intro-title": "Stack & Recursos",
 
@@ -36,7 +36,7 @@
   "stack-graphics-tools-desc": "GIMP, Krita, Inkscape, Blender, Audacity, Kdenlive, draw.io",
 
   "stack-office": "Produtividade",
-  "stack-office-desc": "LibreOffice, Focalboard",
+  "stack-office-desc": "LibreOffice, Kaneo",
 
   "resources-heading": "Recursos",
 
@@ -59,7 +59,7 @@
   "resources-version-control-desc": "GitHub",
 
   "resources-messenger-apps": "Aplicativos de Mensagens",
-  "resources-messenger-apps-desc": "Telegram, WhatsApp, Signal",
+  "resources-messenger-apps-desc": "Rocket.Chat, Telegram, WhatsApp, Signal",
 
   "resources-network-solutions": "Soluções de Rede & Sistemas Distribuídos",
   "resources-network-solutions-desc": "Fail2ban, iptables, Nginx, RabbitMQ, WireGuard",
