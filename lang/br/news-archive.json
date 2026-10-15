@@ -5,6 +5,9 @@
 
   "intro-description": "Bem-vindo ao arquivo de artigos e anúncios antigos da Hybroht. Aqui você pode navegar por atualizações e marcos anteriores.",
 
+  "news-title-2026_15_10": "Migrando do GitHub",
+  "news-desc-2026_15_10": "Após avanços em nossa infraestrutura, iniciamos o processo de migrar todos os repositórios no GitHub para nossos próprios servidores. A partir da nossa próxima atualização, este site não estará mais hospedado no GitHub Pages.",
+
   "news-title-2026_08_19-2": "Retomada de Serviços via Abordagem de Produtização",
   "news-desc-2026_08_19-2": "Pretendemos retomar a oferta de serviços por meio de um modelo transparente e modular: os clientes poderão montar seu próprio pacote de serviços e ver o preço com antecedência, escolhendo o que precisam com preços definidos antecipadamente.",
 
